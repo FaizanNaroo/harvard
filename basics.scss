@@ -1,0 +1,27 @@
+$color: rgb(114, 151, 244);
+
+
+ol>ul{
+    font-weight: bold;
+    color: $color;
+}
+
+#container{
+    .c{
+        color: $color;
+    }
+}
+
+%message{
+    font-weight: bold;
+    color: lightseagreen;
+}
+
+#inside2{
+    @extend %message;
+    background-color:pink;
+}
+#inside{
+    @extend %message;
+    background-color:red;
+}

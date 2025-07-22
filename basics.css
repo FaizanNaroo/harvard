@@ -1,0 +1,21 @@
+ol > ul {
+  font-weight: bold;
+  color: rgb(114, 151, 244);
+}
+
+#container .c {
+  color: rgb(114, 151, 244);
+}
+
+#inside, #inside2 {
+  font-weight: bold;
+  color: lightseagreen;
+}
+
+#inside2 {
+  background-color: pink;
+}
+
+#inside {
+  background-color: red;
+}/*# sourceMappingURL=basics.css.map */
