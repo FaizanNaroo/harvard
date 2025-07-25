@@ -16,6 +16,10 @@ git commit -m message
 git push origin master
    push all the commits to the git hub
 
+
+git clone https://github.com/username/repository.git
+     download the copy of the git repository
+
 git pull 
    get all data present on the git hub
 
@@ -30,4 +34,10 @@ git checkout branchname
 
 git branch
         show all branches
+
+git merge branchname
+    merge the branches 
+
+
+
 
