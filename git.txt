@@ -1,0 +1,33 @@
+
+
+git init
+   initializes the git repository
+
+git remote add origin git@github.com:FaizanNaroo/harvard.git
+   connects with git repostiotory
+
+git add basics.html                       
+Or: git add .   (to stage all resolved files)
+   add the files on the github
+
+git commit -m message
+   save the changes in the git with the message
+
+git push origin master
+   push all the commits to the git hub
+
+git pull 
+   get all data present on the git hub
+
+git status
+    tells that you are on which branch
+
+git checkout -b branchname
+        makes the branch and switch to it
+
+git checkout branchname
+       switch to the branch
+
+git branch
+        show all branches
+
