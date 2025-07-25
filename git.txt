@@ -1,3 +1,6 @@
+pages.github.io
+     repository: to make the online websites on the github 
+
 
 
 git init
